@@ -1,0 +1,51 @@
+body{
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/151791-falling-numbers-matrix-background-vector-gratis-vetor.jpg");
+  background-color: #000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.container{
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title{
+  color: #fff;
+  margin-top: 0 0 5px;
+}
+
+.page-subtitle{
+  color: #fff;
+  margin-top: 5px;
+}
+
+.page-logo{
+  width: 200px;
+}
+
+.alura-logo{
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 380px;
+}
+
+button {
+  color: #f6f6f6;
+  background-color: #ff0000;
+  font-size: 20px;
+}
